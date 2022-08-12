@@ -2,6 +2,8 @@
 
 Please read the problem fully before attempting
 
+Maximum Marks: 11
+
 ## Description
 
 - [Video](https://masai-course.s3.ap-south-1.amazonaws.com/editor/uploads/2022-08-12/rec_423103.mp4)
