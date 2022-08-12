@@ -122,5 +122,5 @@ describe("tests for App:", () => {
 });
 
 afterAll(() => {
-  console.log("Final score:", global.score);
+  console.log("Final Score is", global.score);
 });
