@@ -9,7 +9,7 @@ import Navbar from "../Components/Navbar/Navbar";
 beforeEach(cleanup);
 
 beforeAll(() => {
-  global.score = 0;
+  global.score = 1;
   console.log("Starting score:", global.score);
 });
 
